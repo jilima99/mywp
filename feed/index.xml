@@ -15,14 +15,68 @@
 	<atom:link href="https://jilima99.github.io/mywp/feed/" rel="self" type="application/rss+xml" />
 	<link>https://jilima99.github.io/mywp</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 26 Oct 2022 03:01:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Oct 2022 20:25:23 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
+		<title>Blog 1</title>
+		<link>https://jilima99.github.io/mywp/2022/10/27/blog-1/</link>
+					<comments>https://jilima99.github.io/mywp/2022/10/27/blog-1/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhdanh]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 20:25:23 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://jilima99.github.io/mywp/?p=280</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://jilima99.github.io/mywp/2022/10/27/blog-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Product</title>
+		<link>https://jilima99.github.io/mywp/2022/10/27/product/</link>
+					<comments>https://jilima99.github.io/mywp/2022/10/27/product/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhdanh]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 20:25:00 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://jilima99.github.io/mywp/?p=278</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://jilima99.github.io/mywp/2022/10/27/product/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Home page 1</title>
+		<link>https://jilima99.github.io/mywp/2022/10/27/home-page-1/</link>
+					<comments>https://jilima99.github.io/mywp/2022/10/27/home-page-1/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhdanh]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 20:24:16 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://jilima99.github.io/mywp/?p=276</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://jilima99.github.io/mywp/2022/10/27/home-page-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Chào tất cả mọi người!</title>
 		<link>https://jilima99.github.io/mywp/2022/10/26/chao-moi-nguoi/</link>
 					<comments>https://jilima99.github.io/mywp/2022/10/26/chao-moi-nguoi/#comments</comments>
