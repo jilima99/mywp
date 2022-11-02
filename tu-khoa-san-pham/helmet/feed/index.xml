@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Helmet &#8211; My WordPress</title>
+	<atom:link href="https://jilima99.github.io/mywp/tu-khoa-san-pham/helmet/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jilima99.github.io/mywp</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 27 Oct 2022 11:48:22 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>HELMET SPORT A20</title>
+		<link>https://jilima99.github.io/mywp/san-pham/helmet-sport-a20/</link>
+					<comments>https://jilima99.github.io/mywp/san-pham/helmet-sport-a20/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhdanh]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 11:46:57 +0000</pubDate>
+				<guid isPermaLink="false">https://jilima99.github.io/mywp/?post_type=product&#038;p=217</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
+										<content:encoded><![CDATA[<p>Curabitur egestas malesuada volutpat. Nunc vel vestibulum odio, ac pellentesque lacus. Pellentesque dapibus nunc nec est imperdiet, a malesuada sem rutrum. Sed quam odio, porta a finibus quis, sagittis aliquet leo. Nunc ornare metus urna, eu luctus velit placerat ut. Cras at porttitor lectus. Ut dapibus aliquam nibh, in imperdiet libero tincidunt sit amet. Morbi sodales fermentum nibh nec facilisis. Morbi pharetra varius velit, eget varius libero finibus quis. Quisque auctor varius lectus, lacinia rhoncus velit posuere vel. Cras condimentum tincidunt urna, sed vehicula ipsum dapibus et. Pellentesque pharetra ultrices varius. Sed viverra nec purus ut ornare.</p>
+<ul>
+<li>Aenean auctor sem ac ex efficitur</li>
+<li>Non mattis odio bibendum</li>
+<li>Sed vitae enim at tortor finibus</li>
+<li>Integer facilisis eleifend vehicula</li>
+<li>In hac habitasse platea dictumst</li>
+</ul>
+<p>Sed molestie orci sem, at semper est molestie ac. Suspendisse cursus feugiat erat, eu posuere massa. Nullam posuere nibh non eros lobortis tempus. Maecenas dignissim elementum massa, vel accumsan urna elementum in. Suspendisse at dui euismod, rhoncus eros non, imperdiet ipsum. Vestibulum vehicula vel turpis et vestibulum. Ut porta et ex maximus malesuada.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://jilima99.github.io/mywp/san-pham/helmet-sport-a20/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
